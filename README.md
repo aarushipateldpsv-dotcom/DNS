@@ -156,10 +156,3 @@ ARP Spoofing Detector will detect an ARP spoofing attack. Meanwhile, cryptograph
 
 In the `UserScript.py`, if you run the script with the `--secure 1` option, the payload will be transmitted in encrypted form (this is the default behavior). Therefore, if the attacker does not have the key, he can't poison our reponse.  
 On the other hand, to demonstrate the ARP Spoofing Detector, we also provide the option `--secure 0`, in which the payload will not be encrypted before being transmitted.
-
-# Contributors
-<a href="https://github.com/datthinh1801/NT106.DNS-simulation/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=datthinh1801/NT106.DNS-simulation" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
